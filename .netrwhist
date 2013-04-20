@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc/modprobe.d'
+let g:netrw_dirhist_2='/home/bdrillard/Workspace/Python/env/jadeproject/mezzanine_html5boilerplate/templates'
+let g:netrw_dirhist_3='/home/bdrillard/Workspace/Python/env/jadeproject/mezzanine_html5boilerplate/templates/blog'
+let g:netrw_dirhist_4='/home/bdrillard/Workspace'
