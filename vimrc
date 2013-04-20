@@ -83,8 +83,10 @@ filetype plugin indent on
 
 syntax on
 
-au VimEnter * RainbowParenthesesToggle " For Rainbow Parens
-
+au VimEnter * RainbowParenthesesActivate " For Rainbow Parens
+au Syntax * RainbowParenthesesLoadRound
+au Syntax * RainbowParenthesesLoadSquare
+au Syntax * RainbowParenthesesLoadBraces
 filetype plugin on  " Makes sure vim invokes Latex-Suite and other plugins  when file is opened
 
 filetype indent on  " Enables automatic indention for LaTex
