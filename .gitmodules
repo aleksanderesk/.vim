@@ -28,3 +28,9 @@
 [submodule "bundle/rainbow"]
 	path = bundle/rainbow
 	url = git://github.com/kien/rainbow_parentheses.vim.git
+[submodule "vim-clojure-static"]
+	path = vim-clojure-static
+	url = git://github.com/guns/vim-clojure-static.git
+[submodule "vim-foreplay"]
+	path = vim-foreplay
+	url = git://github.com/tpope/vim-foreplay.git
