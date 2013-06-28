@@ -79,7 +79,7 @@ colorscheme slate " Set colorscheme
 
 set mouse=a         " Enable the use of the mouse.
  
-filetype plugin indent on
+filetype plugin indent on " For Clojure
 
 syntax on
 
